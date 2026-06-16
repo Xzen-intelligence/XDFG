@@ -1,5 +1,6 @@
 XYZEN Boson QIM Toolchain
 版权声明：© 2026 XYZEN Intelligence. 本工具链基于 MIT 开源协议发布，ORCID 身份：[https://orcid.org/0009-0009-8045-4064]， 知识共享许可：CC BY-NC-ND 4.0
+
 1. 项目概述
 核心优势
 完整可落地的量子计算工具链，覆盖从理论建模到硬件真机验证全流程：三维玻色 - 哈伯德建模→QUBO 转换→参数扫描→QIM 真机提交→噪声校准→反推结果动力学分析。非零反脚本，工程规范与实验数据量化落地。
@@ -47,4 +48,3 @@ Latest 标签对应：v1.0.0（首个真机验证稳定版本）
 大容量仿真原始数据文件（100MB-392MB）未随代码仓库上传，可通过配套数据集仓库 / 云盘下载，仓库仅保留校准配置与真机小型结果。
 7. 开源合规说明
 本工具链为原创自研项目，完整三维 BH→QIM 映射架构、噪声参数反推校准流程均为独立设计。遵循 MIT 开源协议，任何人可自由修改、商用、分发，仅需保留顶部版权声明与仓库 LICENSE 文件，禁止移除 ORCID / 双 C 认证、XYZEN 原创标识等基础署名信息。
-GitHub 话题标签：quantum-computing, boson-hubbard, qim-simulator, qubo, quantum-annealing, many-body-physics, quantum-hardware
